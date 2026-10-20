@@ -3,8 +3,10 @@
 Code, outputs and paper materials for **C-RAIL**, a method for using LLMs as classifiers on
 medical data with class imbalance.
 
-**Paper:** *Contrastive Retrieval Augmented In-Context Learning for Medical Classification Tasks
-with Imbalanced Data* (Swarnika Joshi, Kshitij S. Jadhav) — [`paper/C-RAIL.pdf`](paper/C-RAIL.pdf)
+
+**Paper:** *Contrastive Retrieval Augmented In-Context Learning for Medical Classification Tasks with Imbalanced Data* (Swarnika Joshi, Kshitij S. Jadhav)
+
+📄 [Published Paper (IEEE Xplore)](https://ieeexplore.ieee.org/document/11416461) | [PDF](paper/C-RAIL.pdf)
 
 ## Idea
 
