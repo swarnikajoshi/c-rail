@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the C-RAIL paper."
+title: "Contrastive Retrieval Augmented In-Context Learning for Medical Classification Tasks with Imbalanced Data"
+type: software
+authors:
+  - family-names: Joshi
+    given-names: Swarnika
+  - family-names: Jadhav
+    given-names: Kshitij S.

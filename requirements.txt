@@ -1,0 +1,10 @@
+jupyterlab
+numpy
+pandas
+scikit-learn
+openpyxl
+tqdm
+python-dotenv
+pydantic>=2
+langchain
+langchain-openai
